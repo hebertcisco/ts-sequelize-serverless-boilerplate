@@ -1,4 +1,4 @@
-# λ TypeScript & Postgres Serverless Boilerplate
+# λ TypeScript & Sequelize Serverless Boilerplate
 
 [![Node.js CI](https://github.com/hebertcisco/typescript-serverless-boilerplate/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hebertcisco/typescript-serverless-boilerplate/actions/workflows/build-and-test.yml)
 

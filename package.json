@@ -1,7 +1,7 @@
 {
   "name": "ts-sequelize-serverless-boilerplate",
   "version": "0.0.1",
-  "description": "λ TypeScript & Postgres Serverless Boilerplate",
+  "description": "λ TypeScript & Sequelize Serverless Boilerplate",
   "main": "event.ts",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\"",
